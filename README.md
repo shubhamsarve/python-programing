@@ -1,2 +1,1 @@
-# python-programing
-its advance
+Comparison of numbers
